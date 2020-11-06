@@ -1,0 +1,13 @@
+{
+  "name": "yarn",
+  "version": "1.0",
+  "description": "second projects in view ",
+  "main": "index.js",
+  "author": "Dean Peter",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.11"
+  }
+}
